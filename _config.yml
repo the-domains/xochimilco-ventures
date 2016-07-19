@@ -1,4 +1,3 @@
-layout_spectrum: 0.31322148093022406
 typography_spectrum: 0.34144304040819407
 color:
   brandStrength: 0.08104819827713072
@@ -11,5 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.31322148093022406
+author:
+  name: Xochimilco Ventures
+  email: pato@collective.academy
+  url: www.about.me/patobichara
 name: Xochimilco Ventures
 title: Mexico's premier early-stage fund

@@ -1,16 +1,16 @@
-typography_spectrum: 0.34144304040819407
+typography_spectrum: 0.8644644708838314
 color:
-  brandStrength: 0.08104819827713072
-  lightness: 0.23483834648504853
-  saturation: 0.05702768103219569
-  rhythmicContrast: 0.17298446386121213
+  brandStrength: 0.4463763067033142
+  lightness: 0.9694118434563279
+  saturation: 0.5152890770696104
+  rhythmicContrast: 0.6577759787905961
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.31322148093022406
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+layout_spectrum: 0.05496294819749892
 author:
   name: Xochimilco Ventures
   email: pato@collective.academy

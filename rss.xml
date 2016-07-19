@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mexico's premier early-stage fund]]></title>
         <description><![CDATA[Mexico's premier early-stage fund]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.xochimilcoventures.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 19:57:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jul 2016 20:13:20 GMT</lastBuildDate>
+        <atom:link href="http://www.xochimilcoventures.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About us]]></title>
+            <description><![CDATA[<article><h1>About us</h1><p>We are a group of friends trying to make a difference in Mexico - at the same time we are entrepreneurs, investors, advisors, and public officials building a different future.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0bfd8d9-da4a-4084-aeb4-1099b9cc096c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0bfd8d9-da4a-4084-aeb4-1099b9cc096c.jpg</link>
+            <guid isPermaLink="false">e8757798-48ac-4c2e-9e44-e614476b25ea</guid>
+            <pubDate>Mon, 18 Jul 2016 20:12:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d710b43b-9359-4875-8719-b3c690a1275a.jpg">]]></description>
-            <link>undefined70110740-8a5f-46a0-bace-b0893da91de6/index.html</link>
+            <link>http://www.xochimilcoventures.com/70110740-8a5f-46a0-bace-b0893da91de6/index.html</link>
             <guid isPermaLink="false">70110740-8a5f-46a0-bace-b0893da91de6</guid>
             <pubDate>Mon, 18 Jul 2016 19:57:33 GMT</pubDate>
         </item>

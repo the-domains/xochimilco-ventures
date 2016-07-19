@@ -6,9 +6,10 @@ color:
   saturation: 0.05702768103219569
   rhythmicContrast: 0.17298446386121213
   brandColors:
-    - '#B8ECD7'
-    - '#083643'
-    - '#B1E001'
-    - '#CEF09D'
-    - '#476C5E'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Xochimilco Ventures
+title: Mexico's premier early-stage fund

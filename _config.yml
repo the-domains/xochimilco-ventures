@@ -1,24 +1,14 @@
-typography_spectrum: 0.11671273014508188
+layout_spectrum: 0.31322148093022406
+typography_spectrum: 0.34144304040819407
 color:
-  brandStrength: 0.22756377840414643
-  lightness: 0.836520409444347
-  saturation: 0.47013206826522946
-  rhythmicContrast: 0.5530797943938524
+  brandStrength: 0.08104819827713072
+  lightness: 0.23483834648504853
+  saturation: 0.05702768103219569
+  rhythmicContrast: 0.17298446386121213
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.511205539572984
-author:
-  name: Xochimilco Ventures
-  email: pato@collective.academy
-  url: www.about.me/patobichara
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Xochimilco Ventures
-navigation:
-  - id: e8757798-48ac-4c2e-9e44-e614476b25ea
-    url: 2016-07-18-about-us.html
-    name: About us
-    type: content
-title: Mexico's premier early-stage fund

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mexico's premier early-stage fund]]></title>
+        <description><![CDATA[Mexico's premier early-stage fund]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 19:57:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d710b43b-9359-4875-8719-b3c690a1275a.jpg">]]></description>
+            <link>undefined70110740-8a5f-46a0-bace-b0893da91de6/index.html</link>
+            <guid isPermaLink="false">70110740-8a5f-46a0-bace-b0893da91de6</guid>
+            <pubDate>Mon, 18 Jul 2016 19:57:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
